@@ -2,13 +2,13 @@
 
 ## Reporting a Vulnerability
 
-Please report security issues to uptime@kuma.pet.
+Please report security issues to sup@gyarbij.app.
 
 Do not use the issue tracker or discuss it in the public as it will cause more damage.
 
 ## Supported Versions
 
-### Uptime Kuma Versions
+### Sup Versions
 
 You should use or upgrade to the latest version of Uptime Kuma. All `1.X.X` versions are upgradable to the lastest version.
 
