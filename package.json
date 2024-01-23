@@ -132,7 +132,7 @@
         "concurrently": "^7.1.0",
         "core-js": "~3.18.3",
         "cross-env": "~7.0.3",
-        "cypress": "^10.1.0",
+        "cypress": "^13.6.3",
         "delay": "^5.0.0",
         "dns2": "~2.0.1",
         "eslint": "~8.24.0",
