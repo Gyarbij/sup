@@ -23,7 +23,7 @@ jobs:
 
     steps:
     - run: git config --global core.autocrlf false  # Mainly for Windows
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v5
 
     - name: Use Node.js ${{ matrix.node }}
       uses: actions/setup-node@v4
@@ -41,7 +41,7 @@ jobs:
 
     steps:
     - run: git config --global core.autocrlf false  # Mainly for Windows
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v5
 
     - name: Use Node.js 14
       uses: actions/setup-node@v4
@@ -56,7 +56,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - run: git config --global core.autocrlf false  # Mainly for Windows
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v5
 
     - name: Use Node.js 14
       uses: actions/setup-node@v4
